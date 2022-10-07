@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "name": "John",
+      "gender": "male",
+      "company": "facebook",
+      "isCompleted": true,
+      "id": 1
+    }
+  ]
+}
